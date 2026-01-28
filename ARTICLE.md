@@ -1,10 +1,10 @@
-#IEEE Software Engineering Code of Ethics
+# IEEE Software Engineering Code of Ethics
 ---
-##Link to my article
+## Link to my article
 ---
 [IEEE Software Engineering Code of Ethics](https://www.computer.org/education/code-of-ethics)
 
-##What I found interesting about this article
+## What I found interesting about this article
 ---
 As a student studying computer science, I found this article very interesting because it helped
 me understand the real-world impact of software engineers and 
