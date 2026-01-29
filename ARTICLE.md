@@ -19,3 +19,7 @@ benefits from technology available.
 
 Proof Reading: Article checked for typos
 
+###Comments
+---
+What I find interesting about the IEEE Code of Ethics is how it frames software engineering as fundamentally about people, not just code. It's a helpful reminder that every action has downstream consequences for real users. This also made me think about the AI conversation - does AI consider these ethical codes when generating code, and how does ethical responsibilty extend to software engineers using AI? - Isumi Wanniarachchi
+
